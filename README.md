@@ -1,5 +1,5 @@
 
-![screenshot of sample](https://system-blog.ru/wp-content/uploads/2017/12/python_django.png)
+![screenshot of sample](https://caktus-website-production-2015.s3.amazonaws.com/media/blog-images/django-logo.gif)
 
 
 Тестовый проект
